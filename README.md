@@ -8,6 +8,7 @@ import si_calc
 to calculate the simple interest, you have to call the simple interest function.
 to call the function, you do;
    print(SI(200,3,0.035))
+   now run the code.
 in the code above, the arguments passed to the function are passed in an order.
 the order of which the code was passed is "P" which is principal, "T" which is for time and then "R" which us the rate.
 
